@@ -4,14 +4,13 @@ word frequencies are from https://tmh.conlang.org/word-frequency/ and https://ww
 - the first source seems less reliable (some dubious frequencies and no source actually cited), but the second one has much fewer of the words in my word list
 - any word not on the list i just assigned a minimum frequency of 1
 TODO
-- if the possibilities left are one common word and several rare words, maybe the best option is to just guess the common word
-- when there are only two possibilities left, we're picking one at random, but we should pick the more common one
 - try optimizing check_word() so we can do bigger sublists
   - actually i don't think i can optimize it more
 - sometimes the script guesses the right word faster in hardmode, which i think shouldn't be the case
   - e.g. usually gets "puppy" in 6 guesses on nonhardmode but only 4-5 on hardmode
 - highest penalty of 2 still gives weird words like "colin" occasionally (but fairly rarely)
   - so maybe 3 was better
+- maybe guesses should prioritize distinguishing between common words (and not worry as much about rare ones)
 """
 import random
 
@@ -27,8 +26,8 @@ class WordleSolver:
         self.turn = 0
         self.hardmode = None
         # multiplier for how much rare words are penalized. lower this to allow more unusual guesses
-        # 1 = no penalty; 2 = a reasonable penalty i think; 3 = worked well but probably unnecessarily high
-        self.highest_penalty = 2
+        # 1 = no penalty; 2 = occasionally odd words but usually fine; 3 = worked well but probably unnecessarily high
+        self.highest_penalty = 2.5
         self.penalty_dict = self.get_freq_penalty_dict()
 
     def get_freq_penalty_dict(self):
