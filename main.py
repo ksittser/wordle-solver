@@ -21,13 +21,19 @@ class WordleSolver:
         Args:
             wordlist(list(list(str))): list of all valid words
         """
+        # ADJUSTABLE PARAMS
+        # multiplier for how much rare words are penalized. lower this to allow more unusual guesses
+        # 1 = no penalty; 2 = occasionally odd words but usually fine; 3 = worked well but probably unnecessarily high
+        self.highest_penalty = 2.5
+        # maximum number of comparisons for searching for the next guess to make. higher value gives more accuracy but takes longer time
+        # i tested values of 1mil (2 sec), 4mil (6 sec), and 10mil (17 sec), and they all seemed to perform about the same, so higher value doesn't seem to make much difference
+        # 100k is definitely a degradation in performance (but lightning fast)
+        self.max_comparisons = 1000000
+
         self.wordlist, self.freqs = zip(*wordlist)
         self.wordlist_filtered = self.wordlist[:]
         self.turn = 0
         self.hardmode = None
-        # multiplier for how much rare words are penalized. lower this to allow more unusual guesses
-        # 1 = no penalty; 2 = occasionally odd words but usually fine; 3 = worked well but probably unnecessarily high
-        self.highest_penalty = 2.5
         self.penalty_dict = self.get_freq_penalty_dict()
 
     def get_freq_penalty_dict(self):
@@ -130,7 +136,7 @@ class WordleSolver:
             wordlist = self.wordlist_filtered
         else:
             wordlist = self.wordlist
-        compares_per_word = min(4000000//len(wordlist), len(wordlist))
+        compares_per_word = min(self.max_comparisons//len(wordlist), len(wordlist))
         if compares_per_word >= len(self.wordlist_filtered):
             sublist = self.wordlist_filtered
         else:
