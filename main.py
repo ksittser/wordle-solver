@@ -10,6 +10,8 @@ TODO
   - actually i don't think i can optimize it more
 - sometimes the script guesses the right word faster in hardmode, which i think shouldn't be the case
   - e.g. usually gets "puppy" in 6 guesses on nonhardmode but only 4-5 on hardmode
+- highest penalty of 2 still gives weird words like "colin" occasionally (but fairly rarely)
+  - so maybe 3 was better
 """
 import random
 
@@ -113,9 +115,17 @@ class WordleSolver:
         # if there are no possibilities left, the player either gave bad info or chose a target word not in the wordlist
         if not self.wordlist_filtered:
             return None
-        # if there are only 1 or 2 possibilities left, we should just guess one of them. (without this check, non-hardmode's algorithm will keep trying to make narrowing-down guesses and never guess the right answer)
-        if len(self.wordlist_filtered) <= 2:
+        # if there are only 1 or 2 possibilities left, we should just guess the more common one of them. (without this check, non-hardmode's algorithm will keep trying to make narrowing-down guesses and never guess the right answer)
+        if len(self.wordlist_filtered) == 1:
             return self.wordlist_filtered[0]
+        elif len(self.wordlist_filtered) == 2:
+            return self.wordlist_filtered[1] if self.penalty_dict[self.wordlist_filtered[1]] < self.penalty_dict[self.wordlist_filtered[0]] else self.wordlist_filtered[0]
+        # if there are relatively few possibilities left and all but one are much less common, just guess the common word
+        elif len(self.wordlist_filtered) <= 6:
+            pens = [(w,self.penalty_dict[w]) for w in self.wordlist_filtered]
+            pens.sort(key=lambda x:x[1])
+            if pens[0][1] <= pens[1][1]-(self.highest_penalty-1)/4:
+                return pens[0][0]
 
         if self.hardmode:
             wordlist = self.wordlist_filtered
