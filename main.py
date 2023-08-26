@@ -8,8 +8,6 @@ TODO
   - actually i don't think i can optimize it more
 - sometimes the script guesses the right word faster in hardmode, which i think shouldn't be the case
   - e.g. usually gets "puppy" in 6 guesses on nonhardmode but only 4-5 on hardmode
-- highest penalty of 2 still gives weird words like "colin" occasionally (but fairly rarely)
-  - so maybe 3 was better
 - maybe guesses should prioritize distinguishing between common words (and not worry as much about rare ones)
 """
 import random
