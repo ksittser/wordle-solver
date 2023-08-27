@@ -34,6 +34,7 @@ class WordleSolver:
         self.wordlist = None
         self.wordlist_filtered = None
         self.freqs = None
+        self.guesses = []
         self.construct_wordlist(word_file)
         self.penalty_dict = self.get_freq_penalty_dict()
 
@@ -218,9 +219,10 @@ class WordleSolver:
         while True:
             self.turn += 1
             guess = self.get_best_guess()
+            self.guesses.append(guess)
             if guess is None:
                 print('NO KNOWN WORDS LEFT!')
-                return None
+                return None, self.guesses
             print('My', self.ordinal(self.turn), 'guess is:', guess.upper())
             valid = False
             while not valid:
@@ -233,7 +235,7 @@ class WordleSolver:
             if result == 'GGGGG':
                 if self.turn <= 6:
                     print('I WIN!')
-                return self.turn
+                return self.turn, self.guesses
             elif self.turn == 6:
                 print('I LOSE!')
             self.filter_wordlist(guess, result)
@@ -245,5 +247,5 @@ class WordleSolver:
 
 if __name__ == '__main__':
     solver = WordleSolver('wordfreqsfinal.txt')
-    score = solver.play()
+    score, guesses = solver.play()
     print('Solved in',score,'turns')
