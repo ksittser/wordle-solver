@@ -191,28 +191,37 @@ class WordleSolver:
             return False
         return True
 
-    def play(self):
+    def play(self, target=None):
+        """Play the game
+        Args:
+            target(str/None): the target word, if playing automatically, or None if playing manually
+        """
         valid = False
         while not valid:
             hardmode = input('Play in hardmode? (Y/N): ').upper()
             valid = hardmode in 'YN'
         self.hardmode = hardmode=='Y'
+
         print()
         while True:
             self.turn += 1
             guess = self.get_best_guess()
             if guess is None:
                 print('NO KNOWN WORDS LEFT!')
-                break
+                return None
             print('My', self.ordinal(self.turn), 'guess is:', guess.upper())
             valid = False
             while not valid:
-                result = input('Tell me the color result (e.g. "XXGYX"): ').upper()
+                if target is None:
+                    result = input('Tell me the color result (e.g. "XXGYX"): ').upper()
+                else:
+                    result = self.check_word(target, guess)
+                    print('Tell me the color result (e.g. "XXGYX"):',result)
                 valid = self.validate_color_string(result)
             if result == 'GGGGG':
                 if self.turn <= 6:
                     print('I WIN!')
-                break
+                return self.turn
             elif self.turn == 6:
                 print('I LOSE!')
             self.filter_wordlist(guess, result)
@@ -228,4 +237,5 @@ if __name__ == '__main__':
     lines = [line.split() for line in lines]
     lines = [(w,int(n)) for w,n in lines]
     solver = WordleSolver(lines)
-    solver.play()
+    score = solver.play()
+    print('Solved in',score,'turns')
