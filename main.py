@@ -15,10 +15,10 @@ import random
 
 
 class WordleSolver:
-    def __init__(self, wordlist):
+    def __init__(self, word_file):
         """Constructor
         Args:
-            wordlist(list(list(str))): list of all valid words
+            word_file(str): name of file with word and frequency data
         """
         # ADJUSTABLE PARAMS
         # multiplier for how much rare words are penalized. lower this to allow more unusual guesses
@@ -29,11 +29,25 @@ class WordleSolver:
         # 100k is definitely a degradation in performance (but lightning fast)
         self.max_comparisons = 1000000
 
-        self.wordlist, self.freqs = zip(*wordlist)
-        self.wordlist_filtered = self.wordlist[:]
         self.turn = 0
         self.hardmode = None
+        self.wordlist = None
+        self.wordlist_filtered = None
+        self.freqs = None
+        self.construct_wordlist(word_file)
         self.penalty_dict = self.get_freq_penalty_dict()
+
+    def construct_wordlist(self, file):
+        """Construct word and frequency list from file
+        Args:
+            file(str): file name to get data from
+        """
+        f = open(file)
+        lines = f.read().splitlines()
+        lines = [line.split() for line in lines]
+        wordlist = [(w, int(n)) for w, n in lines]
+        self.wordlist, self.freqs = zip(*wordlist)
+        self.wordlist_filtered = self.wordlist[:]
 
     def get_freq_penalty_dict(self):
         """Read the word frequency file and store a dict of penalties for each word, which we'll use to help avoid guessing unrecognizable words
@@ -230,10 +244,6 @@ class WordleSolver:
 
 
 if __name__ == '__main__':
-    f = open('wordfreqsfinal.txt')
-    lines = f.read().splitlines()
-    lines = [line.split() for line in lines]
-    lines = [(w,int(n)) for w,n in lines]
-    solver = WordleSolver(lines)
+    solver = WordleSolver('wordfreqsfinal.txt')
     score = solver.play()
     print('Solved in',score,'turns')
