@@ -41,14 +41,12 @@ class WordleSolver:
             dict(str:float)
         """
         d = {}
-        # the frequency file contains a list of each word's relative frequency ranked from 1 (rare) to 6 (common)
-        file = open('wordfreqsfinal.txt').read().splitlines()
         # rarer words are going to get higher penalties against being chosen
         penalties = [3, 2, 1.5, 1.25, 1.1, 1]
         # adjust penalties based on chosen max penalty
         penalties = [(self.highest_penalty-1)*(p-1)/2 + 1 for p in penalties]
-        for line in file:
-            w,f = line.split()
+        # the frequency list gives each word's relative frequency ranked from 1 (rare) to 6 (common)
+        for w,f in zip(self.wordlist, self.freqs):
             d[w] = penalties[int(f)-1]
         return d
 
@@ -232,7 +230,7 @@ class WordleSolver:
 
 
 if __name__ == '__main__':
-    f = open('wordfreqs.txt')
+    f = open('wordfreqsfinal.txt')
     lines = f.read().splitlines()
     lines = [line.split() for line in lines]
     lines = [(w,int(n)) for w,n in lines]
