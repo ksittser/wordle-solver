@@ -1,8 +1,9 @@
 """
 word list is from https://gist.github.com/dracos/dd0668f281e685bad51479e5acaadb93
 word frequencies are from https://tmh.conlang.org/word-frequency/ and https://www.kaggle.com/datasets/rtatman/english-word-frequency
-- the first source seems less reliable (some dubious frequencies and no source actually cited), but the second one has much fewer of the words in my word list
-- any word not on the list i just assigned a minimum frequency of 1
+- i split up each list very roughly into six frequency levels based on how often i saw unusual-looking words in different ranges of frequency rating numberes, and then averaged the results from the two lists
+i used a second, smaller wordlist to sanity-check some very rare words that the script was guessing too often: https://www-cs-faculty.stanford.edu/~knuth/sgb-words.txt
+- i checked for any word that had been assigned a high frequency but was not on this second list, and manually decreased the frequency rating of most of them
 TODO
 - try optimizing check_word() so we can do bigger sublists
   - actually i don't think i can optimize it more
@@ -196,6 +197,7 @@ class WordleSolver:
             hardmode = input('Play in hardmode? (Y/N): ').upper()
             valid = hardmode in 'YN'
         self.hardmode = hardmode=='Y'
+        print()
         while True:
             self.turn += 1
             guess = self.get_best_guess()
@@ -217,6 +219,7 @@ class WordleSolver:
             print('REM:',len(self.wordlist_filtered))
             if len(self.wordlist_filtered) <= 30:
                 print(self.wordlist_filtered)
+            print()
 
 
 if __name__ == '__main__':

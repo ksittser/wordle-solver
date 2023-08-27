@@ -17,7 +17,7 @@ abash 1
 abask 1
 abate 3
 abaya 2
-abbas 5
+abbas 2
 abbed 1
 abbes 1
 abbey 6
@@ -131,7 +131,7 @@ adays 1
 adbot 1
 addas 1
 addax 1
-added 5
+added 3
 adder 4
 addin 1
 addio 1
@@ -390,11 +390,11 @@ alkin 1
 alkos 1
 alkyd 1
 alkyl 2
-allan 5
+allan 2
 allay 2
 allee 1
 allel 1
-allen 5
+allen 2
 aller 2
 alley 5
 allin 1
@@ -516,7 +516,7 @@ anigh 1
 anile 1
 anils 1
 anima 2
-anime 5
+anime 4
 animi 1
 anion 3
 anise 1
@@ -526,7 +526,7 @@ ankle 5
 ankus 1
 anlas 1
 annal 3
-annan 5
+annan 2
 annas 1
 annat 1
 annex 4
@@ -617,7 +617,7 @@ aread 1
 areae 1
 areal 2
 arear 1
-areas 5
+areas 3
 areca 1
 aredd 1
 arede 1
@@ -641,7 +641,7 @@ argue 6
 argus 3
 arhat 1
 arias 2
-ariel 4
+ariel 2
 ariki 1
 arils 1
 ariot 1
@@ -651,7 +651,7 @@ arith 1
 arked 1
 arled 1
 arles 2
-armed 5
+armed 4
 armer 1
 armet 1
 armil 1
@@ -931,7 +931,7 @@ bales 2
 balks 1
 balky 1
 ballo 1
-balls 5
+balls 3
 bally 2
 balms 1
 balmy 2
@@ -952,16 +952,16 @@ banak 1
 banal 2
 banco 2
 bancs 1
-banda 4
+banda 2
 bandh 1
-bands 5
+bands 3
 bandy 2
 baned 1
 banes 1
 bangs 2
 bania 1
 banjo 3
-banks 6
+banks 3
 banky 1
 banns 1
 bants 1
@@ -1000,7 +1000,7 @@ barps 1
 barra 3
 barre 3
 barro 1
-barry 5
+barry 2
 barye 1
 basal 4
 basan 1
@@ -1053,7 +1053,7 @@ bawrs 1
 bawty 1
 bayas 1
 bayed 1
-bayer 5
+bayer 2
 bayes 2
 bayle 1
 bayou 3
@@ -1072,11 +1072,11 @@ beals 1
 beams 3
 beamy 1
 beano 1
-beans 4
+beans 3
 beany 1
 beard 5
 beare 1
-bears 4
+bears 3
 beast 6
 beath 1
 beats 3
@@ -1153,7 +1153,7 @@ benis 1
 benji 1
 benne 1
 benni 1
-benny 4
+benny 2
 bento 2
 bents 1
 benty 1
@@ -1188,7 +1188,7 @@ beths 1
 betid 1
 beton 1
 betta 1
-betty 5
+betty 3
 bevan 1
 bevel 2
 bever 1
@@ -1260,7 +1260,7 @@ biles 1
 bilge 2
 bilgy 1
 bilks 1
-bills 5
+bills 3
 billy 6
 bimah 1
 bimas 1
@@ -1289,7 +1289,7 @@ bipod 1
 bippy 1
 birch 5
 birdo 1
-birds 4
+birds 3
 biris 1
 birks 1
 birle 1
@@ -1333,7 +1333,7 @@ blahs 1
 blain 1
 blame 6
 blams 1
-blanc 4
+blanc 2
 bland 4
 blank 5
 blare 2
@@ -1384,7 +1384,7 @@ bloat 2
 blobs 1
 block 6
 blocs 1
-blogs 4
+blogs 3
 bloke 2
 blond 5
 blonx 1
@@ -1590,7 +1590,7 @@ bower 2
 bowes 2
 bowet 1
 bowie 4
-bowls 4
+bowls 3
 bowne 1
 bowrs 1
 bowse 1
@@ -1693,7 +1693,7 @@ britt 2
 brize 1
 broad 6
 broch 1
-brock 5
+brock 2
 brods 1
 brogh 1
 brogs 1
@@ -1755,7 +1755,7 @@ buffe 1
 buffi 1
 buffo 1
 buffs 2
-buffy 4
+buffy 2
 bufos 1
 bufty 1
 bugan 1
@@ -1817,11 +1817,11 @@ burgh 2
 burgs 1
 burin 1
 burka 1
-burke 5
+burke 2
 burks 1
 burls 1
 burly 1
-burns 5
+burns 3
 burnt 5
 buroo 1
 burps 1
@@ -1920,8 +1920,8 @@ calif 2
 calix 1
 calks 1
 calla 2
-calle 4
-calls 4
+calle 2
+calls 3
 calms 1
 calmy 1
 calos 1
@@ -1982,7 +1982,7 @@ carbo 1
 carbs 3
 carby 1
 cardi 1
-cards 4
+cards 3
 cardy 1
 cared 3
 carer 3
@@ -2063,7 +2063,7 @@ celeb 4
 cella 2
 celli 1
 cello 3
-cells 4
+cells 3
 celly 1
 celom 1
 celts 1
@@ -2108,7 +2108,7 @@ chals 1
 champ 4
 chams 1
 chana 1
-chang 4
+chang 2
 chank 1
 chant 4
 chaos 3
@@ -2161,7 +2161,7 @@ chews 2
 chewy 2
 chiao 2
 chias 1
-chiba 4
+chiba 2
 chibs 1
 chica 2
 chich 1
@@ -2272,7 +2272,7 @@ circs 1
 cires 1
 cirls 1
 cirri 1
-cisco 4
+cisco 2
 cissy 1
 cists 1
 cital 1
@@ -2293,7 +2293,7 @@ clads 1
 claes 1
 clags 1
 claim 6
-clair 5
+clair 3
 clame 1
 clamp 5
 clams 2
@@ -2410,14 +2410,14 @@ cocco 1
 cocks 3
 cocky 1
 cocoa 3
-cocos 4
+cocos 3
 cocus 1
 codas 1
 codec 3
 coded 3
 coden 2
 coder 2
-codes 4
+codes 3
 codex 4
 codon 2
 coeds 2
@@ -2426,7 +2426,7 @@ cogie 1
 cogon 1
 cogue 1
 cohab 1
-cohen 5
+cohen 2
 cohoe 1
 cohog 1
 cohos 1
@@ -2446,7 +2446,7 @@ coled 1
 coles 2
 coley 1
 colic 2
-colin 5
+colin 3
 colle 1
 colls 1
 colly 1
@@ -2464,7 +2464,7 @@ combo 4
 combs 3
 comby 1
 comer 2
-comes 4
+comes 3
 comet 5
 comfy 3
 comic 6
@@ -2488,7 +2488,7 @@ coney 3
 confs 1
 conga 1
 conge 1
-congo 5
+congo 2
 conia 1
 conic 2
 conin 1
@@ -2593,7 +2593,7 @@ covet 2
 covey 2
 covin 1
 cowal 1
-cowan 4
+cowan 2
 cowed 1
 cower 2
 cowks 1
@@ -2621,7 +2621,7 @@ crack 6
 craft 6
 crags 2
 craic 1
-craig 5
+craig 2
 crake 1
 crame 1
 cramp 1
@@ -2886,13 +2886,13 @@ dandy 3
 dangs 1
 danio 1
 danks 1
-danny 5
+danny 2
 danse 2
 dants 1
 dappy 1
 daraf 1
 darbs 1
-darcy 4
+darcy 2
 dared 2
 darer 1
 dares 2
@@ -2905,14 +2905,14 @@ darky 1
 darls 1
 darns 1
 darre 1
-darts 4
+darts 3
 darzi 1
 dashi 1
 dashy 1
 datal 1
 dated 3
 dater 1
-dates 4
+dates 3
 datil 1
 datos 2
 datto 1
@@ -2984,7 +2984,7 @@ decoy 2
 decry 3
 decyl 1
 dedal 1
-deeds 4
+deeds 3
 deedy 1
 deely 1
 deems 2
@@ -3021,7 +3021,7 @@ deles 1
 delfs 1
 delft 3
 delis 1
-della 5
+della 2
 dells 2
 delly 1
 delos 1
@@ -3046,7 +3046,7 @@ dench 1
 denes 1
 denet 1
 denim 5
-denis 5
+denis 2
 dense 5
 dente 1
 dents 2
@@ -3067,7 +3067,7 @@ derny 1
 deros 1
 derpy 1
 derro 1
-derry 4
+derry 2
 derth 1
 dervs 1
 desex 1
@@ -3083,7 +3083,7 @@ devas 1
 devel 3
 devil 6
 devis 1
-devon 5
+devon 2
 devos 1
 devot 1
 dewan 3
@@ -3107,8 +3107,8 @@ dhows 1
 dhuti 1
 diact 1
 dials 2
-diana 5
-diane 5
+diana 2
+diane 2
 diary 5
 diazo 1
 dibbs 1
@@ -3261,7 +3261,7 @@ doles 1
 doley 1
 dolia 1
 dolie 1
-dolls 4
+dolls 3
 dolly 5
 dolma 1
 dolor 4
@@ -3311,7 +3311,7 @@ dorbs 1
 doree 1
 dores 2
 doric 2
-doris 5
+doris 2
 dorje 1
 dorks 1
 dorky 1
@@ -3350,7 +3350,7 @@ douse 1
 douts 1
 doved 1
 doven 1
-dover 6
+dover 2
 doves 2
 dovie 1
 dowak 1
@@ -3452,7 +3452,7 @@ drove 4
 drown 4
 drows 1
 drubs 1
-drugs 5
+drugs 3
 druid 2
 drums 3
 drunk 5
@@ -3492,7 +3492,7 @@ duing 1
 duits 1
 dukas 1
 duked 1
-dukes 4
+dukes 3
 dukka 1
 dukun 1
 dulce 2
@@ -3610,9 +3610,9 @@ ebene 1
 ebike 1
 ebons 1
 ebony 4
-ebook 5
+ebook 3
 ecads 1
-ecard 4
+ecard 3
 ecash 1
 eched 1
 eches 1
@@ -3757,7 +3757,7 @@ ensky 1
 ensue 3
 enter 6
 entia 1
-entre 4
+entre 2
 entry 6
 enure 1
 enurn 1
@@ -3794,7 +3794,7 @@ ergon 1
 ergos 1
 ergot 1
 erhus 1
-erica 4
+erica 2
 erick 2
 erics 1
 ering 1
@@ -3888,7 +3888,7 @@ exome 1
 exons 1
 expat 4
 expel 3
-expos 4
+expos 3
 extol 1
 extra 6
 exude 2
@@ -3907,9 +3907,9 @@ ezine 3
 fabbo 1
 fabby 1
 fable 3
-faced 4
+faced 3
 facer 1
-faces 5
+faces 3
 facet 4
 facey 1
 facia 1
@@ -3932,7 +3932,7 @@ faggy 1
 fagin 1
 fagot 1
 faiks 1
-fails 4
+fails 3
 faine 1
 fains 1
 faint 5
@@ -3948,7 +3948,7 @@ fakie 1
 fakir 1
 falaj 1
 fales 1
-falls 5
+falls 3
 false 6
 falsy 1
 famed 2
@@ -3973,10 +3973,10 @@ farcy 1
 fards 1
 fared 1
 farer 1
-fares 5
+fares 3
 farle 1
 farls 1
-farms 4
+farms 3
 faros 1
 farro 1
 farse 1
@@ -4032,7 +4032,7 @@ fecht 1
 fecit 1
 fecks 1
 fedai 1
-fedex 4
+fedex 2
 feebs 1
 feeds 3
 feels 3
@@ -4047,7 +4047,7 @@ feint 2
 feist 1
 felch 1
 felid 1
-felix 4
+felix 2
 fella 2
 fells 1
 felly 1
@@ -4076,7 +4076,7 @@ feria 1
 ferly 1
 fermi 2
 ferms 1
-ferns 4
+ferns 3
 ferny 1
 ferox 1
 ferry 6
@@ -4145,7 +4145,7 @@ filar 1
 filch 1
 filed 3
 filer 2
-files 4
+files 3
 filet 2
 filii 1
 filks 1
@@ -4154,7 +4154,7 @@ fillo 1
 fills 3
 filly 1
 filmi 1
-films 5
+films 3
 filmy 2
 filon 1
 filos 1
@@ -4166,7 +4166,7 @@ finch 5
 finds 3
 fined 3
 finer 4
-fines 4
+fines 3
 finis 1
 finks 1
 finny 1
@@ -4176,7 +4176,7 @@ fiqhs 1
 fique 1
 fired 3
 firer 1
-fires 4
+fires 3
 firie 1
 firks 1
 firma 2
@@ -4210,7 +4210,7 @@ fjord 3
 flabs 1
 flack 1
 flaff 1
-flags 5
+flags 3
 flail 2
 flair 5
 flake 4
@@ -4245,7 +4245,7 @@ fleet 6
 flegs 1
 fleme 1
 flesh 6
-fleur 4
+fleur 2
 flews 1
 flexi 2
 flexo 1
@@ -4361,14 +4361,14 @@ fordo 1
 fords 1
 forel 1
 fores 1
-forex 5
+forex 2
 forge 5
 forgo 2
 forks 3
 forky 1
 forma 3
 forme 2
-forms 4
+forms 3
 forte 4
 forth 6
 forts 2
@@ -4417,7 +4417,7 @@ fraud 6
 fraus 1
 frays 1
 freak 5
-freed 5
+freed 4
 freer 2
 frees 2
 freet 1
@@ -4443,7 +4443,7 @@ frite 1
 frith 2
 frits 1
 fritt 1
-fritz 4
+fritz 3
 frize 1
 frizz 1
 frock 3
@@ -4596,7 +4596,7 @@ gambo 1
 gambs 1
 gamed 1
 gamer 4
-games 6
+games 3
 gamey 1
 gamic 1
 gamin 1
@@ -4635,7 +4635,7 @@ garre 1
 garri 1
 garth 3
 garum 1
-gases 4
+gases 3
 gashy 1
 gasps 1
 gaspy 1
@@ -4708,7 +4708,7 @@ gemot 1
 genae 1
 genal 1
 genas 1
-genes 4
+genes 3
 genet 3
 genic 1
 genie 3
@@ -4717,7 +4717,7 @@ genin 1
 genio 1
 genip 1
 genny 1
-genoa 4
+genoa 2
 genom 1
 genre 6
 genro 1
@@ -4791,7 +4791,7 @@ gippy 1
 gipsy 1
 girds 1
 girlf 1
-girls 5
+girls 3
 girly 2
 girns 1
 giron 1
@@ -4902,7 +4902,7 @@ gnows 1
 goads 1
 goafs 1
 goaft 1
-goals 5
+goals 3
 goary 1
 goats 3
 goaty 1
@@ -5288,7 +5288,7 @@ halfa 1
 halfs 1
 halid 1
 hallo 2
-halls 4
+halls 3
 halma 1
 halms 1
 halon 1
@@ -5310,7 +5310,7 @@ hanap 1
 hance 1
 hanch 1
 handi 1
-hands 5
+hands 3
 handy 5
 hangi 1
 hangs 3
@@ -5389,7 +5389,7 @@ hazel 4
 hazer 1
 hazes 1
 hazle 1
-heads 5
+heads 3
 heady 1
 heald 3
 heals 2
@@ -5415,7 +5415,7 @@ hedge 5
 hedgy 1
 heeds 1
 heedy 1
-heels 4
+heels 3
 heeze 1
 hefte 1
 hefts 1
@@ -5456,7 +5456,7 @@ henny 1
 henry 6
 hents 1
 hepar 1
-herbs 4
+herbs 3
 herby 1
 herds 2
 heres 2
@@ -5490,7 +5490,7 @@ hexyl 1
 heyed 1
 hiant 1
 hibas 1
-hicks 5
+hicks 3
 hided 1
 hider 1
 hides 3
@@ -5507,7 +5507,7 @@ hikoi 1
 hilar 1
 hilch 1
 hillo 1
-hills 5
+hills 3
 hilly 4
 hilsa 1
 hilts 1
@@ -5590,13 +5590,13 @@ holts 1
 homas 1
 homed 1
 homer 4
-homes 4
+homes 3
 homey 1
 homie 2
 homme 3
 homos 1
 honan 1
-honda 5
+honda 2
 honds 1
 honed 1
 honer 1
@@ -5638,7 +5638,7 @@ horde 4
 horis 1
 horks 1
 horme 1
-horns 4
+horns 3
 horny 3
 horse 6
 horst 2
@@ -5729,7 +5729,7 @@ hurls 1
 hurly 1
 hurra 1
 hurry 6
-hurst 4
+hurst 2
 hurts 3
 hurty 1
 hushy 1
@@ -5863,7 +5863,7 @@ incus 1
 incut 1
 indew 1
 index 6
-india 6
+india 2
 indie 5
 indol 1
 indow 1
@@ -5896,7 +5896,7 @@ inrun 1
 insee 1
 inset 3
 inspo 1
-intel 5
+intel 4
 inter 5
 intil 1
 intis 1
@@ -5975,7 +5975,7 @@ jambe 1
 jambo 1
 jambs 1
 jambu 1
-james 6
+james 2
 jammy 1
 jamon 1
 jamun 1
@@ -6036,10 +6036,10 @@ jerid 1
 jerks 2
 jerky 3
 jerry 5
-jesse 5
+jesse 2
 jessy 1
 jests 1
-jesus 5
+jesus 2
 jetee 1
 jetes 1
 jeton 1
@@ -6091,7 +6091,7 @@ jocky 1
 jocos 1
 jodel 1
 joeys 1
-johns 5
+johns 3
 joins 3
 joint 6
 joist 1
@@ -6110,7 +6110,7 @@ jolts 1
 jolty 1
 jomon 1
 jomos 1
-jones 6
+jones 3
 jongs 1
 jonty 3
 jooks 1
@@ -6147,7 +6147,7 @@ juked 1
 jukes 1
 jukus 1
 julep 1
-julia 5
+julia 2
 jumar 1
 jumbo 4
 jumby 1
@@ -6318,7 +6318,7 @@ kerma 1
 kerne 1
 kerns 1
 keros 1
-kerry 5
+kerry 2
 kerve 1
 kesar 1
 kests 1
@@ -6362,7 +6362,7 @@ kibbi 1
 kibei 1
 kibes 1
 kibla 1
-kicks 4
+kicks 3
 kicky 1
 kiddo 1
 kiddy 2
@@ -6393,7 +6393,7 @@ kinda 4
 kinds 3
 kindy 1
 kines 1
-kings 5
+kings 3
 kingy 1
 kinin 1
 kinks 2
@@ -6407,7 +6407,7 @@ kipes 1
 kippa 1
 kipps 1
 kipsy 1
-kirby 5
+kirby 2
 kirks 1
 kirns 1
 kirri 1
@@ -6466,7 +6466,7 @@ knout 1
 knowd 1
 knowe 1
 known 5
-knows 4
+knows 3
 knubs 1
 knule 1
 knurl 1
@@ -6651,7 +6651,7 @@ laith 1
 laity 1
 laked 1
 laker 1
-lakes 5
+lakes 3
 lakhs 1
 lakin 1
 laksa 1
@@ -6671,7 +6671,7 @@ lanas 1
 lance 5
 lanch 1
 lande 1
-lands 4
+lands 3
 laned 1
 lanes 3
 lanks 1
@@ -6729,7 +6729,7 @@ lauds 1
 laufs 1
 laugh 6
 laund 1
-laura 6
+laura 2
 laval 3
 lavas 1
 laved 1
@@ -6803,7 +6803,7 @@ lefte 1
 lefts 1
 lefty 2
 legal 6
-leger 4
+leger 2
 leges 1
 legge 2
 leggo 1
@@ -6830,7 +6830,7 @@ lenos 1
 lense 3
 lenti 1
 lento 1
-leone 5
+leone 2
 lepak 1
 leper 1
 lepid 1
@@ -6856,9 +6856,9 @@ levee 3
 level 6
 lever 5
 leves 1
-levin 4
+levin 2
 levis 2
-lewis 6
+lewis 2
 lexes 1
 lexis 2
 lezes 1
@@ -6875,7 +6875,7 @@ libel 3
 liber 1
 libor 2
 libra 3
-libre 4
+libre 2
 libri 1
 licet 1
 lichi 1
@@ -6934,7 +6934,7 @@ lindy 3
 lined 3
 linen 5
 liner 5
-lines 5
+lines 3
 liney 1
 linga 1
 lingo 2
@@ -6949,7 +6949,7 @@ linos 1
 lints 1
 linty 1
 linum 1
-linux 5
+linux 2
 lions 3
 lipas 1
 lipes 1
@@ -6979,7 +6979,7 @@ litre 4
 lived 3
 liven 2
 liver 6
-lives 5
+lives 3
 livid 1
 livor 1
 livre 2
@@ -6988,7 +6988,7 @@ liwas 1
 llama 3
 llano 1
 loach 1
-loads 4
+loads 3
 loafs 1
 loams 1
 loamy 2
@@ -7000,7 +7000,7 @@ lobar 1
 lobby 5
 lobed 1
 lobes 1
-lobos 4
+lobos 2
 lobus 1
 local 6
 loche 1
@@ -7019,7 +7019,7 @@ lodge 6
 loess 3
 lofts 2
 lofty 4
-logan 5
+logan 2
 loges 1
 loggy 1
 logia 1
@@ -7028,7 +7028,7 @@ logie 1
 login 5
 logoi 1
 logon 3
-logos 5
+logos 3
 lohan 3
 loids 1
 loins 1
@@ -7057,7 +7057,7 @@ looey 1
 loofa 1
 loofs 1
 looie 1
-looks 4
+looks 3
 looky 2
 looms 2
 loons 1
@@ -7073,7 +7073,7 @@ lopes 3
 loppy 1
 loral 1
 loran 1
-lords 5
+lords 3
 lordy 1
 lorel 1
 lores 1
@@ -7099,7 +7099,7 @@ lotus 4
 loued 1
 lough 3
 louie 2
-louis 6
+louis 3
 louma 1
 lound 1
 louns 1
@@ -7112,10 +7112,10 @@ louse 1
 lousy 3
 louts 1
 lovat 1
-loved 4
+loved 3
 lovee 1
 lover 6
-loves 4
+loves 3
 lovey 1
 lovie 1
 lowan 1
@@ -7269,7 +7269,7 @@ magma 2
 magna 4
 magot 1
 magus 3
-mahal 4
+mahal 2
 mahem 1
 mahis 1
 mahoe 1
@@ -7301,7 +7301,7 @@ makan 1
 makar 1
 makee 1
 maker 6
-makes 5
+makes 3
 makie 1
 makis 1
 makos 1
@@ -7314,10 +7314,10 @@ malax 1
 maleo 1
 males 3
 malic 1
-malik 4
+malik 2
 malis 1
 malky 1
-malls 4
+malls 3
 malms 1
 malmy 1
 malts 1
@@ -7340,13 +7340,13 @@ manas 1
 manat 1
 mandi 1
 mands 1
-mandy 4
+mandy 2
 maneb 1
 maned 1
 maneh 1
 manes 1
 manet 2
-manga 5
+manga 4
 mange 1
 mangi 1
 mango 4
@@ -7400,7 +7400,7 @@ maria 6
 marid 1
 maril 1
 marka 1
-marks 4
+marks 3
 marle 1
 marls 1
 marly 1
@@ -7422,7 +7422,7 @@ maser 1
 mases 1
 masha 1
 mashy 1
-masks 4
+masks 3
 mason 5
 massa 2
 masse 3
@@ -7479,7 +7479,7 @@ maxed 1
 maxes 1
 maxim 4
 maxis 1
-mayan 4
+mayan 2
 mayas 1
 maybe 6
 mayed 1
@@ -7507,7 +7507,7 @@ mbuga 1
 meads 1
 meake 1
 meaks 1
-meals 5
+meals 3
 mealy 1
 meane 1
 means 6
@@ -7536,7 +7536,7 @@ meeds 1
 meeja 1
 meeps 1
 meers 1
-meets 4
+meets 3
 meffs 1
 meids 1
 meiko 1
@@ -7579,7 +7579,7 @@ mensh 1
 menta 1
 mento 1
 ments 3
-menus 5
+menus 3
 meous 1
 meows 1
 merch 2
@@ -7687,14 +7687,14 @@ mikva 1
 milch 1
 milds 1
 miler 1
-miles 5
+miles 3
 milfs 3
 milia 1
 milko 1
 milks 1
 milky 4
 mille 2
-mills 5
+mills 3
 milly 3
 milor 1
 milos 1
@@ -7769,7 +7769,7 @@ misto 1
 mists 1
 misty 5
 mitas 1
-mitch 4
+mitch 2
 miter 2
 mites 2
 mitey 1
@@ -7824,7 +7824,7 @@ modal 4
 model 6
 modem 4
 moder 1
-modes 4
+modes 3
 modge 1
 modii 1
 modin 1
@@ -7895,7 +7895,7 @@ momus 1
 monad 1
 monal 1
 monas 1
-monde 5
+monde 2
 mondo 3
 moner 1
 money 6
@@ -7941,7 +7941,7 @@ mopus 1
 morae 1
 morah 1
 moral 6
-moran 5
+moran 2
 moras 1
 morat 1
 moray 4
@@ -7960,11 +7960,11 @@ moror 1
 morph 2
 morra 1
 morro 1
-morse 4
+morse 2
 morts 1
 moruk 1
 mosed 1
-moses 5
+moses 2
 mosey 1
 mosks 1
 mosso 1
@@ -8006,9 +8006,9 @@ mouse 6
 moust 1
 mousy 1
 mouth 6
-moved 4
+moved 3
 mover 3
-moves 4
+moves 3
 movie 6
 mowas 1
 mowed 1
@@ -8226,14 +8226,14 @@ nalla 1
 namad 1
 namak 1
 namaz 1
-named 5
+named 4
 namer 1
 names 3
 namma 1
 namus 1
 nanas 1
-nance 4
-nancy 5
+nance 2
+nancy 2
 nandu 1
 nanna 1
 nanny 3
@@ -8370,7 +8370,7 @@ neums 1
 nevel 1
 never 6
 neves 1
-nevis 4
+nevis 2
 nevus 1
 nevvy 1
 newbs 1
@@ -8402,7 +8402,7 @@ niced 1
 nicer 4
 nicey 1
 niche 5
-nicht 4
+nicht 2
 nicks 2
 nicky 3
 nicol 3
@@ -8420,7 +8420,7 @@ niffs 1
 niffy 1
 nifle 1
 nifty 3
-niger 4
+niger 2
 nigga 2
 nighs 1
 night 6
@@ -8546,7 +8546,7 @@ noria 1
 norie 1
 noris 1
 norks 1
-norma 4
+norma 2
 norms 3
 north 6
 nosed 2
@@ -8603,7 +8603,7 @@ nudge 2
 nudgy 1
 nudie 1
 nudzh 1
-nuevo 4
+nuevo 2
 nuffs 1
 nugae 1
 nujol 1
@@ -8896,7 +8896,7 @@ ortho 3
 orval 1
 orzos 1
 osars 1
-oscar 5
+oscar 2
 osetr 1
 oseys 1
 oshac 1
@@ -8971,7 +8971,7 @@ owing 5
 owled 1
 owler 1
 owlet 1
-owned 4
+owned 3
 owner 6
 ownio 1
 owres 1
@@ -9101,7 +9101,7 @@ panto 1
 pants 4
 panty 4
 paoli 1
-paolo 4
+paolo 2
 papad 1
 papal 4
 papas 1
@@ -9129,14 +9129,14 @@ parev 1
 parge 1
 pargo 1
 parid 1
-paris 6
+paris 2
 parka 2
 parki 1
-parks 5
+parks 3
 parky 1
 parle 1
 parly 1
-parma 4
+parma 2
 parmo 1
 parms 1
 parol 1
@@ -9145,7 +9145,7 @@ parra 2
 parrs 1
 parry 3
 parse 3
-parte 4
+parte 2
 parti 2
 parts 3
 party 6
@@ -9171,7 +9171,7 @@ patas 1
 patch 6
 pated 1
 patee 1
-patel 4
+patel 2
 paten 1
 pater 1
 pates 1
@@ -9193,7 +9193,7 @@ pause 6
 pauxi 1
 pavan 1
 pavas 1
-paved 5
+paved 4
 paven 1
 paver 1
 paves 1
@@ -9249,7 +9249,7 @@ pedes 1
 pedis 1
 pedon 1
 pedos 1
-pedro 6
+pedro 2
 peece 1
 peeks 1
 peeky 1
@@ -9265,7 +9265,7 @@ peers 3
 peery 1
 peeve 1
 peevo 1
-peggy 4
+peggy 2
 peghs 1
 pegma 1
 pegos 1
@@ -9319,7 +9319,7 @@ peple 1
 pepon 1
 pepos 1
 peppy 1
-pepsi 4
+pepsi 2
 pequi 1
 perae 1
 perai 1
@@ -9343,7 +9343,7 @@ perne 1
 perns 1
 perog 1
 perps 1
-perry 5
+perry 4
 perse 1
 persp 1
 perst 1
@@ -9354,7 +9354,7 @@ pervs 1
 pervy 1
 pesch 1
 pesky 2
-pesos 5
+pesos 3
 pesta 1
 pesto 2
 pests 3
@@ -9482,7 +9482,7 @@ pinda 1
 pinds 1
 pined 1
 piner 1
-pines 4
+pines 3
 piney 1
 pinga 1
 pinge 1
@@ -9567,7 +9567,7 @@ planc 1
 plane 6
 planh 1
 plank 4
-plans 5
+plans 3
 plant 6
 plaps 1
 plash 1
@@ -9584,7 +9584,7 @@ playa 5
 plays 3
 plaza 6
 plead 4
-pleas 4
+pleas 3
 pleat 1
 plebe 1
 plebs 1
@@ -9646,7 +9646,7 @@ pluot 1
 plups 1
 plush 4
 plute 1
-pluto 4
+pluto 2
 pluty 1
 plyer 1
 pneus 1
@@ -9781,7 +9781,7 @@ porno 3
 porns 1
 porny 1
 porta 3
-porte 4
+porte 2
 porth 1
 ports 3
 porty 1
@@ -9860,7 +9860,7 @@ praps 1
 prase 1
 prate 1
 prats 1
-pratt 4
+pratt 2
 praty 1
 praus 1
 prawn 2
@@ -10090,7 +10090,7 @@ pussy 4
 putas 1
 puter 1
 putid 1
-putin 5
+putin 2
 puton 1
 putos 1
 putti 2
@@ -10227,7 +10227,7 @@ quote 6
 quoth 2
 quouk 1
 quoys 1
-quran 4
+quran 2
 qursh 1
 quyte 1
 raads 1
@@ -10304,7 +10304,7 @@ rakus 1
 rales 1
 ralli 1
 rally 6
-ralph 6
+ralph 2
 ramal 1
 ramee 1
 ramen 2
@@ -10314,7 +10314,7 @@ ramie 1
 ramin 1
 ramis 1
 rammy 1
-ramon 4
+ramon 2
 ramps 3
 ramse 1
 ramsh 1
@@ -10336,7 +10336,7 @@ rangy 1
 ranid 1
 ranis 1
 ranke 1
-ranks 4
+ranks 3
 ranns 1
 ranny 1
 ranse 1
@@ -10651,7 +10651,7 @@ rheme 1
 rheum 1
 rhies 1
 rhime 1
-rhine 4
+rhine 2
 rhino 5
 rhody 1
 rhomb 1
@@ -10755,7 +10755,7 @@ rivet 2
 riyal 1
 rizas 1
 roach 3
-roads 5
+roads 3
 roady 1
 roake 1
 roaky 1
@@ -10775,8 +10775,8 @@ roble 1
 robot 6
 robug 1
 robur 1
-roche 4
-rocks 5
+roche 2
+rocks 3
 rocky 6
 roded 1
 rodeo 5
@@ -10807,11 +10807,11 @@ rolag 1
 roleo 1
 roles 3
 rolfs 1
-rolls 5
+rolls 3
 rolly 1
 romal 1
 roman 6
-romeo 5
+romeo 2
 romer 1
 romps 1
 rompu 1
@@ -10933,7 +10933,7 @@ rubby 1
 rubel 1
 rubes 1
 rubin 3
-rubio 4
+rubio 2
 ruble 2
 rubli 1
 rubor 1
@@ -10965,7 +10965,7 @@ ruins 3
 rukhs 1
 ruled 3
 ruler 5
-rules 5
+rules 3
 rully 1
 rumal 1
 rumba 1
@@ -11081,7 +11081,7 @@ sairs 1
 saist 1
 saith 3
 sajou 1
-sakai 4
+sakai 2
 saker 1
 sakes 1
 sakia 1
@@ -11092,12 +11092,12 @@ salal 1
 salas 2
 salat 1
 salep 1
-sales 4
+sales 3
 salet 1
 salic 1
 salis 1
 salix 2
-salle 4
+salle 2
 sally 5
 salmi 1
 salol 1
@@ -11130,7 +11130,7 @@ sammy 3
 sampi 1
 samps 1
 sanad 1
-sands 5
+sands 3
 sandy 6
 saned 1
 saner 1
@@ -11141,7 +11141,7 @@ sango 1
 sangs 1
 sanko 1
 sansa 1
-santo 5
+santo 2
 sants 1
 saola 1
 sapan 1
@@ -11196,7 +11196,7 @@ saves 3
 savey 1
 savin 2
 savor 2
-savoy 4
+savoy 2
 savvy 5
 sawah 1
 sawed 1
@@ -11331,9 +11331,9 @@ seams 2
 seamy 1
 seans 1
 seare 1
-sears 4
+sears 3
 sease 1
-seats 4
+seats 3
 seaze 1
 sebum 1
 secco 1
@@ -11382,7 +11382,7 @@ selfy 1
 selky 1
 sella 1
 selle 1
-sells 4
+sells 3
 selva 1
 semas 1
 semee 1
@@ -11443,7 +11443,7 @@ setae 1
 setal 1
 seter 1
 seths 1
-seton 4
+seton 2
 setts 1
 setup 5
 sevak 1
@@ -11555,7 +11555,7 @@ shist 1
 shite 1
 shits 1
 shiur 1
-shiva 4
+shiva 2
 shive 1
 shivs 1
 shlep 1
@@ -11567,7 +11567,7 @@ shoat 1
 shock 6
 shoed 1
 shoer 1
-shoes 4
+shoes 3
 shogi 2
 shogs 1
 shoji 1
@@ -11652,7 +11652,7 @@ sigil 1
 sigla 1
 sigma 4
 signa 1
-signs 5
+signs 3
 sigri 1
 sijos 1
 sikas 1
@@ -11671,7 +11671,7 @@ silly 5
 silos 2
 silts 1
 silty 1
-silva 5
+silva 2
 simar 2
 simas 1
 simba 1
@@ -11710,7 +11710,7 @@ sists 1
 sitar 1
 sitch 1
 sited 2
-sites 5
+sites 3
 sithe 1
 sitka 2
 situp 1
@@ -11858,7 +11858,7 @@ slipt 1
 slish 1
 slits 1
 slive 1
-sloan 4
+sloan 2
 slobs 1
 sloes 1
 slogs 1
@@ -12069,7 +12069,7 @@ sonce 1
 sonde 1
 sones 1
 songo 1
-songs 5
+songs 3
 songy 1
 sonic 5
 sonly 1
@@ -12121,7 +12121,7 @@ souce 1
 souct 1
 sough 1
 souks 1
-souls 5
+souls 3
 souly 1
 soums 1
 sound 6
@@ -12162,7 +12162,7 @@ spaes 1
 spags 1
 spahi 1
 spail 1
-spain 6
+spain 2
 spait 1
 spake 2
 spald 1
@@ -12338,17 +12338,17 @@ stare 5
 stark 5
 starn 1
 starr 3
-stars 5
+stars 3
 start 6
 stary 1
 stash 3
 state 6
-stats 5
+stats 4
 statu 1
 staun 1
 stave 2
 staws 1
-stays 5
+stays 3
 stead 2
 steak 5
 steal 5
@@ -12513,7 +12513,7 @@ succi 1
 sucks 3
 sucky 1
 sucre 3
-sudan 6
+sudan 2
 sudds 1
 sudor 1
 sudsy 1
@@ -12532,7 +12532,7 @@ suids 1
 suing 3
 suint 1
 suite 6
-suits 5
+suits 3
 sujee 1
 sukhs 1
 sukis 1
@@ -12741,7 +12741,7 @@ tajes 1
 takas 1
 taken 5
 taker 3
-takes 4
+takes 3
 takhi 1
 takht 1
 takin 1
@@ -12869,7 +12869,7 @@ tawts 1
 taxed 3
 taxer 1
 taxes 3
-taxis 5
+taxis 3
 taxol 1
 taxon 4
 taxor 1
@@ -12884,7 +12884,7 @@ teaed 1
 teaks 1
 teals 1
 teams 3
-tears 4
+tears 3
 teary 1
 tease 5
 teats 1
@@ -12984,7 +12984,7 @@ teugh 1
 tewed 1
 tewel 1
 tewit 1
-texas 6
+texas 3
 texes 1
 texta 1
 texts 3
@@ -13107,7 +13107,7 @@ tilak 1
 tilde 1
 tiled 2
 tiler 1
-tiles 4
+tiles 3
 tills 1
 tilly 2
 tilth 1
@@ -13115,7 +13115,7 @@ tilts 1
 timbo 1
 timed 3
 timer 5
-times 6
+times 4
 timid 4
 timon 1
 timps 1
@@ -13224,7 +13224,7 @@ toned 2
 toner 3
 tones 3
 toney 1
-tonga 5
+tonga 2
 tongs 2
 tonic 2
 tonka 1
@@ -13372,7 +13372,7 @@ tribe 6
 trice 1
 trick 6
 tride 1
-tried 4
+tried 3
 trier 2
 tries 3
 trifa 1
@@ -13481,7 +13481,7 @@ tunas 1
 tunds 1
 tuned 3
 tuner 3
-tunes 4
+tunes 3
 tungs 1
 tunic 3
 tunny 1
@@ -13493,7 +13493,7 @@ turbo 3
 turds 1
 turfs 1
 turfy 1
-turks 5
+turks 2
 turme 1
 turms 1
 turns 3
@@ -13554,14 +13554,14 @@ tyers 1
 tying 3
 tyiyn 1
 tykes 1
-tyler 5
+tyler 2
 tymps 1
 tynde 1
 tyned 1
 tynes 1
 typal 1
 typed 3
-types 4
+types 3
 typey 1
 typic 1
 typos 2
@@ -13661,7 +13661,7 @@ unify 4
 union 6
 unios 1
 unite 5
-units 4
+units 3
 unity 6
 unjam 1
 unked 1
@@ -13869,7 +13869,7 @@ veeps 1
 veers 1
 veery 1
 vegan 5
-vegas 5
+vegas 2
 veges 1
 veggo 1
 vegie 1
@@ -13897,10 +13897,10 @@ venom 3
 venti 1
 vents 2
 venue 6
-venus 5
+venus 2
 verba 1
 verbs 3
-verde 5
+verde 2
 verge 4
 verra 1
 verre 1
@@ -14120,12 +14120,12 @@ waldo 2
 walds 1
 waled 1
 waler 1
-wales 6
+wales 3
 walie 1
 walis 1
-walks 4
+walks 3
 walla 3
-walls 5
+walls 3
 wally 2
 walty 1
 waltz 4
@@ -14143,13 +14143,13 @@ wanle 1
 wanly 1
 wanna 5
 wanta 1
-wants 4
+wants 3
 wanty 1
 wanze 1
 waqfs 1
 warbs 1
 warby 1
-wards 5
+wards 3
 wared 1
 wares 2
 warez 3
@@ -14172,7 +14172,7 @@ wasts 1
 watap 1
 watch 6
 water 6
-watts 5
+watts 3
 wauff 1
 waugh 2
 wauks 1
@@ -14210,7 +14210,7 @@ weeds 3
 weedy 1
 weeis 1
 weeke 2
-weeks 4
+weeks 3
 weels 1
 weems 1
 weens 1
@@ -14235,7 +14235,7 @@ welds 1
 welke 1
 welks 1
 welkt 1
-wells 5
+wells 3
 welly 1
 welsh 5
 welts 1
@@ -14262,7 +14262,7 @@ whaps 1
 whare 1
 wharf 5
 whata 1
-whats 4
+whats 3
 whaup 1
 whaur 1
 wheal 1
@@ -14342,7 +14342,7 @@ wifty 1
 wigan 3
 wigga 1
 wiggy 1
-wight 5
+wight 3
 wikis 2
 wilco 2
 wilds 1
@@ -14351,7 +14351,7 @@ wiles 1
 wilga 1
 wilis 1
 wilja 1
-wills 4
+wills 3
 willy 3
 wilts 1
 wimps 1
@@ -14398,7 +14398,7 @@ withy 1
 witty 4
 wived 1
 wiver 1
-wives 4
+wives 3
 wizen 1
 wizes 1
 wizzo 1
@@ -14444,9 +14444,9 @@ woose 1
 woosh 1
 wootz 1
 woozy 2
-words 5
+words 3
 wordy 1
-works 6
+works 3
 worky 1
 world 6
 worms 3
@@ -14518,7 +14518,7 @@ xerus 1
 xoana 1
 xolos 1
 xrays 1
-xviii 4
+xviii 2
 xylan 2
 xylem 1
 xylic 1
@@ -14565,11 +14565,11 @@ yarer 1
 yarfa 1
 yarks 1
 yarns 2
-yarra 4
+yarra 2
 yarrs 1
 yarta 1
 yarto 1
-yates 4
+yates 2
 yatra 1
 yauds 1
 yauld 1
@@ -14593,7 +14593,7 @@ yealm 1
 yeans 1
 yeard 1
 yearn 2
-years 5
+years 3
 yeast 5
 yecch 1
 yechs 1
